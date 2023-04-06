@@ -1,0 +1,11 @@
+.menu{
+    position: absolute !important;
+}
+.button-link{
+    position: absolute !important;
+}
+.cart{
+    overflow: hidden;
+    width: 1130px;
+    margin-top: 170px;
+}
